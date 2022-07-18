@@ -7,7 +7,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-display: block;
+display: flex;
 text-align: center;
 }
 
@@ -56,5 +56,5 @@ text-align: center;
 #ejercicioSiete{
     display: flex;
     justify-content: space-evenly;
-    align-items: flex-end;
+    align-items: flex-start;
     }
