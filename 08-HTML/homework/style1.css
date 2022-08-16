@@ -1,5 +1,5 @@
 h1{
-    color: brown;
+    color: rgb(8, 103, 246);
 }
 
 img {
@@ -9,9 +9,9 @@ img {
 #thirdDiv {
     height: 600px;
     width: 500px;
-    background-color: aqua;
+    background-color: rgb(166, 255, 0);
     padding: 50px;
-    border: 18px solid blue;
+    border: 18px solid rgb(255, 0, 136);
 }
 #spanId {
     font-size: 18px;
